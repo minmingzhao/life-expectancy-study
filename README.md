@@ -24,9 +24,9 @@ Hardware:
 Windows 8.1 running Cloudera Quick VM
 
 Software:
-Hive/HDFS	Hadoop HDFS, Cloudera Hive SQL
-PySpark w/ MLlib	Pyspark for machine learning
-Anaconda Spyder w/ Scikit-learn	Scikit-learn machine learning
+Hive/HDFS	Hadoop HDFS, Cloudera Hive SQL. 
+PySpark w/ MLlib	Pyspark for machine learning. 
+Anaconda Spyder w/ Scikit-learn	Scikit-learn machine learning. 
 
 Overview of steps:
 Step1: Identify independent variables for dependent variable life expectancy. Clean raw data. 
