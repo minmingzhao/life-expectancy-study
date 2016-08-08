@@ -3,19 +3,23 @@ Concentration: Predict life expectancy of different countries
 
 Problem Statement: This study is to investigate the relationship between the life expectancy at birth of different countries and many other factors such as country area, population, economy condition, climate, happiness index etc. With this study, we could conclude some important factors which should be taken seriously by each government in order to improve the life expectancy for certain countries. 
 
-Big Data Set: 
+Data Set: 
 Country name and general info: 
 https://www.cia.gov/library/publications/the-world-factbook/ 
+
 World Population: 
 http://gsociology.icaap.org/data/WorldPopulation.xlsx 
 http://www.census.gov/population/international/data/idb/informationGateway.php
+
 Quality of Life:
 http://gsociology.icaap.org/data/QualityOfLife_reconstructed.ods 
+
 Indicator WorldBank GDP data
 http://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD 
+
 Life expectancy data:
 http://www.gapminder.org/gapminder-world/documentation/gd004 
-Format of data file: csv
+
 Hardware:
 •	Windows 8.1 running Cloudera Quick VM
 Software:
