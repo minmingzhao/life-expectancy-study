@@ -8,7 +8,7 @@ Country name and general info:
 https://www.cia.gov/library/publications/the-world-factbook/ 
 World Population: 
 http://gsociology.icaap.org/data/WorldPopulation.xlsx 
-http://www.census.gov/population/international/data/idb/informationGateway.php 
+http://www.census.gov/population/international/data/idb/informationGateway.php
 Quality of Life:
 http://gsociology.icaap.org/data/QualityOfLife_reconstructed.ods 
 Indicator WorldBank GDP data
