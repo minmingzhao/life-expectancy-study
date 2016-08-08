@@ -1,0 +1,2 @@
+# lifeexpectancystudy
+Problem Statement: This study is to investigate the relationship between the life expectancy at birth of different countries and many other factors such as country area, population, economy condition, climate, happiness index etc. With this study, we could conclude some important factors which should be taken seriously by each government in order to improve the life expectancy for certain countries.  Goal: Be able to predict life expectancy with other country facts known. Identify most important country facts which strongly relates to life expectancy. 
