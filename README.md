@@ -36,6 +36,7 @@ Step4: Visualize the results using python matplot lib.
 
 Summary: A good linear regression model is generated to predict life expectancy of each country. Some factors are listed and discussed as they are important to improve life expectancy. 
 Cons/Issues: The factors of a country are various and some are not necessarily considered in this report and some may be not completely independent to each other. 
+
 YouTube URLs here:
 15mins: https://youtu.be/KJLHTcrihTY 
 2mins: https://youtu.be/wqPIqF-s1_Q 
