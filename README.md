@@ -21,9 +21,9 @@ Life expectancy data:
 http://www.gapminder.org/gapminder-world/documentation/gd004 
 
 Hardware:
-•	Windows 8.1 running Cloudera Quick VM
+Windows 8.1 running Cloudera Quick VM
+
 Software:
-Technology/tools	Description
 Hive/HDFS	Hadoop HDFS, Cloudera Hive SQL
 PySpark w/ MLlib	Pyspark for machine learning
 Anaconda Spyder w/ Scikit-learn	Scikit-learn machine learning
